@@ -1,5 +1,5 @@
 using System;
-public class Client
+public class NewCar
 {
     public static void Main()
     {
